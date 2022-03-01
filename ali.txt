@@ -1,0 +1,4 @@
+entry point configyre the container that will run as an executable
+expose assosiate a specifi port to enable networking between the containers and outside of the wolrd
+adfdf
+
