@@ -1,0 +1,11 @@
+
+from ubuntu
+maintainer syedmaazali
+run apt-ger update
+cmd ["echo" , "hello world"]
+wq!
+
+qa!
+save the changes 
+stash 
+status 
